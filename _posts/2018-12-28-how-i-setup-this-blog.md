@@ -28,5 +28,3 @@ This post describes how I setup my Blog using Jekyll and GitHub
 
 ## Checking Posts
 Before committing my post to GitHub I local check it with `jekyll serve` and logging into http://localhost:4000
-
-## Publishing
