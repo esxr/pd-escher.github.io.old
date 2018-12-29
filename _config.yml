@@ -18,6 +18,7 @@ email: dhoolia.pranav@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My adventures
 baseurl: "" # the subpath of your site, e.g. /blog
+show_excerpts: yes
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  pd-escher

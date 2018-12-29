@@ -3,8 +3,7 @@ layout: post
 title: "How I setup this Blog"
 date: 2018-12-28
 ---
-
-This post describes how I setup my Blog using Jekyll and GitHub
+This post describes how I setup my **Blog using Jekyll & GitHub**.
 
 ## Setting up the GitHub part
 - Went to Github.com &rarr; Created a new repository &rarr; `<username>.github.io`
