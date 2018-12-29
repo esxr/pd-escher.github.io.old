@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentiments Analysis of Movie Dialogs"
-date: 2018-12-28
+date: 2018-12-29
 ---
 In this task I get a movie dialogs data, and do *Sentiment Analysis* on it using **TextBlob** and **NLTK** libraries.
 
