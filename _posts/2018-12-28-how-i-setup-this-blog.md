@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "How I setup this Blog"
 date: 2018-12-28
+title: "How I setup this Blog"
+categories: blog
+author: Pranav Dhoolia
 ---
 This post describes how I setup my **Blog using Jekyll & GitHub**.
 
