@@ -8,9 +8,8 @@ author: Pranav Dhoolia
 In this task I get a movie dialogs data, and do **Sentiment Analysis** with **TextBlob** & **NLTK**.
 
 ## Movie Dialog Dataset
-I am going to use this movie dialog corpus on Kaggle as my dataset of movie
-dialogs:
-https://www.kaggle.com/Cornell-University/movie-dialog-corpus#movie_lines.tsv
+I am going to use [this movie dialog corpus on Kaggle](https://www.kaggle.com/Cornell-University/movie-dialog-corpus#movie_lines.tsv) as my dataset of movie
+dialogs.
 
 This is a tab separated file of dialogs. Each line is of following format:
 ```
