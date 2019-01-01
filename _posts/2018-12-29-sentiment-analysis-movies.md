@@ -5,7 +5,7 @@ title: Sentiment Analysis of Movie Dialogs
 categories: blog
 author: Pranav Dhoolia
 ---
-In this task I get a movie dialogs data, and do **Sentiment Analysis** with **TextBlob** & **NLTK**.
+In this task I get a movie dialogs data, and do [Sentiment Analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) with [TextBlob](https://textblob.readthedocs.io/en/dev/) & [NLTK](https://www.nltk.org/).
 
 ## Movie Dialog Dataset
 I am going to use [this movie dialog corpus on Kaggle](https://www.kaggle.com/Cornell-University/movie-dialog-corpus#movie_lines.tsv) as my dataset of movie
