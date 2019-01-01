@@ -5,7 +5,7 @@ title: "How I setup this Blog"
 categories: blog
 author: Pranav Dhoolia
 ---
-This post describes how I setup my **Blog using Jekyll & GitHub**.
+This post describes how I setup my Blog using [Jekyll](https://jekyllrb.com/) & [GitHub](https://github.com/).
 
 ## Setting up the GitHub part
 - Went to Github.com &rarr; Created a new repository &rarr; `<username>.github.io`
