@@ -15,7 +15,7 @@ for arg in sys.argv:
 
 c = get_config()
 c.NbConvertApp.export_format = 'markdown'
-c.MarkdownExporter.template_path = ['/Users/pdhoolia/pranav/pd-escher.github.io/scripts'] # point this to your jekyll template file
+c.MarkdownExporter.template_path = ['/home/pranav/work/pd-escher.github.io/scripts'] # point this to your jekyll template file
 c.MarkdownExporter.template_file = 'jekyll'
 #c.Application.verbose_crash=True
 
@@ -29,4 +29,4 @@ c.MarkdownExporter.filters = {'path2support': path2support}
 
 if f:
     c.NbConvertApp.output_base = f.lower().replace(' ', '-')
-    c.FilesWriter.build_directory = '/Users/pdhoolia/pranav/pd-escher.github.io/_jupyter' # point this to your build directory
+    c.FilesWriter.build_directory = '/home/pranav/work/pd-escher.github.io/_jupyter' # point this to your build directory

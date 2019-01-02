@@ -4,8 +4,8 @@
 # [...pd-escher.github.io/_jupyter]$ ../scripts/convert.sh notebook.ipynb
 # 
 
-BUILD_DIR="/Users/pdhoolia/pranav/pd-escher.github.io/_jupyter/"
-POST_DIR="/Users/pdhoolia/pranav/pd-escher.github.io/_posts/"
+BUILD_DIR="/home/pranav/work/pd-escher.github.io/_jupyter/"
+POST_DIR="/home/pranav/work/pd-escher.github.io/_posts/"
 
 # use nbconvert on the file
 jupyter nbconvert --to markdown $1 --config jekyll.py
